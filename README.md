@@ -59,6 +59,9 @@ The main objectives of this project are:
 ---
 
 # 🏗️ Observability Architecture
+## 🏗️ Architecture Diagram
+
+![Kubernetes Observability Architecture](screenshots/k8s-observability-architecture.png)
 
 ```text
                            Users / Client
