@@ -1059,6 +1059,6 @@ The observability stack enables SRE and development teams to monitor application
 
 # 👩‍💻 Author
 
-**Aditya More**
+**Pratiksha Lavand**
 
 AWS | DevOps | Kubernetes | Cloud Engineering barobar ahe na all
